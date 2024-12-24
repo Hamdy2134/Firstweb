@@ -1,0 +1,24 @@
+.navbar-nav .nav-item .nav-link { color: black; }
+.navbar-nav .nav-item .nav-link:hover { color: red; }
+.navbar-brand { font-weight: bold; }
+.navbar .dropdown-menu { min-width: 10rem; }
+.home { text-align: center; background-size: cover; background-position: center center; background-color: #f5f5f5; }
+ .ptn:hover{
+  background-color: black;
+ }
+.Footer {
+    background-color:black;
+}
+.register:hover {
+  background-color: green;
+}
+.login:hover {
+  background-color: green;
+}
+.btn:hover {
+  background-color: #495057; 
+  transform: scale(1.05);
+}
+.container  .imgcol:hover {
+  transform: scale(1.1); 
+}
